@@ -9,11 +9,11 @@ body {
 }
 
 a {
-    color: #f56145;
+    color: #f57d05;
 }
 
 a:hover {
-    color: #f56145;
+    color: #f57d05;
     text-decoration: underline;
 }
 
@@ -22,15 +22,15 @@ a {
 }
 
 h3, h4, h5 {
-    color: #116160!important;
+    color: #039359!important;
 }
 
 .timeline {
-    border-left: 1px solid #f56145!important;
+    border-left: 1px solid #f57d05!important;
 }
 
 .timeline-item:after {
-    background-color: #f56145!important;
+    background-color: #f57d05!important;
 }
 
 .sunshine-text {
@@ -73,7 +73,7 @@ a.sunshine-text:hover {
     /*color: #000;
       background-color: #FEB210;*/
     color: #fff;
-    background-color: #f56145;
+    background-color: #f57d05;
 }
 
 .bg-titanblue {
@@ -83,12 +83,12 @@ a.sunshine-text:hover {
 
 .bg-esjdkgreen {
     color: #fff!important;
-    background-color: #116160;
+    background-color: #039359;
 }
 
 .bg-esjltgreen {
     color: #fff!important;
-    background-color: #309692;
+    background-color: #02bf80;
 }
 
 .text-bg-titanblue {
@@ -98,20 +98,20 @@ a.sunshine-text:hover {
 
 .text-bg-esjltgreen {
     color: #fff!important;
-    background-color: #309692;
+    background-color: #02bf80;
 }
 
 .text-bg-esjdkgreen {
     color: #fff;
-    background-color: #116160!important;
+    background-color: #039359!important;
 }
 
 .text-esjdkgreen {
-    color: #116160;
+    color: #039359;
 }
 
 .text-esjltgreen {
-    color: #309692;
+    color: #02bf80;
 }
 
 .text-bg-sunshine {
@@ -121,11 +121,11 @@ a.sunshine-text:hover {
 
 .text-bg-esjorange {
     color: #fff!important;
-    background-color: #f56145;
+    background-color: #f57d05;
 }
 
 .text-muted {
-    color: #309692!important;
+    color: #02bf80!important;
 }
 
 .card-title {
@@ -134,13 +134,13 @@ a.sunshine-text:hover {
 
 .table-esj {
     --bs-table-color: #fff;
-    --bs-table-bg: #309692;
+    --bs-table-bg: #02bf80;
     
     --bs-table-striped-bg: #fff;
     --bs-table-striped-color: #fff;
-    --bs-table-active-bg: #309692;
+    --bs-table-active-bg: #02bf80;
     --bs-table-active-color: #000;
-    --bs-table-hover-bg: #309692;
+    --bs-table-hover-bg: #02bf80;
     --bs-table-hover-color: #fff;
     color: var(--bs-table-color);
     border-color: var(--bs-table-border-color);
@@ -166,8 +166,8 @@ a.sunshine-text:hover {
 
 .btn-esjorange {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #f56145;
-    --bs-btn-border-color: #f56145; /*change*/
+    --bs-btn-bg: ##f57d05;
+    --bs-btn-border-color: ##f57d05; /*change*/
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: #f34625;
     --bs-btn-hover-border-color: #f34625; /*change*/
